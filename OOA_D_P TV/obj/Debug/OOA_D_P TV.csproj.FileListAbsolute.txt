@@ -1,0 +1,7 @@
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\obj\Debug\OOA_D_P TV.csproj.AssemblyReference.cache
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\obj\Debug\OOA_D_P TV.csproj.CoreCompileInputs.cache
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\bin\Debug\OOA_D_P TV.exe.config
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\bin\Debug\OOA_D_P TV.exe
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\bin\Debug\OOA_D_P TV.pdb
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\obj\Debug\OOA_D_P TV.exe
+C:\Users\Meeting Gritti Group\Desktop\OOA_D_P TV\OOA_D_P TV\obj\Debug\OOA_D_P TV.pdb
